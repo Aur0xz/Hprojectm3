@@ -60,12 +60,12 @@ form .btn{
 }
 
 .btn.btn-default{
-    background: #ebebeb;
-    color:#8f9096;
+    background: #aadcfd;
+    color:#ffffff;
 }
 
 .btn.btn-primary{
-    background: #8f8fa0;
+    background: #aadcfd;
     color:white;
 }
 .sidebar {
@@ -86,7 +86,7 @@ form .btn{
 
 .sidebar .nav-link{
     margin-bottom: 20px;
-    color:#dddce5;
+    color:#ffffff;
 }
 
 .nav-link.active{
