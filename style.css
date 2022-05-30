@@ -35,7 +35,12 @@ p{
     color: #adb5bd;
     font-size: 15px;
 }
-
+ h4{
+     font-family: 'Poppins', sans-serif;
+     color: black;
+     font-size: 25;
+     text-align: left;
+ }
 .img1{
     width: 250px;
     height: 250px;
