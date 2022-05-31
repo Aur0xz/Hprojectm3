@@ -26,7 +26,7 @@ h1{
 
 h2{
     font-family: 'Poppins', sans-serif;
-    color: black;
+    color: rgb(52, 97, 109);
     font-size: 25px;
     text-align: left;
 }
@@ -37,8 +37,8 @@ p{
 }
  h4{
      font-family: 'Poppins', sans-serif;
-     color: black;
-     font-size: 25;
+     color: rgb(33, 126, 133);
+     font-size: 40px;
      text-align: left;
  }
 .img1{
