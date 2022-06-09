@@ -1,5 +1,5 @@
 body{
-    background-color: lightcyan;
+    background-color: #E9FFFE;
     align-items: center;
 }
 a{
@@ -13,13 +13,13 @@ a{
 }
 h3{
     font-family: 'Poppins', sans-serif;
-    color: black;
+    color: #07393d;
     font-size: 18px;
     text-align: left; 
 }
 h1{
     font-family: 'Poppins', sans-serif;
-    color: black;
+    color: #306468;
     font-size: 50px;
     text-align: center;
 }
@@ -47,12 +47,7 @@ p{
     
 }
 
-.cat-link{
-    color: rgb(0, 134, 134);
-    font-family: 'Poppins', sans-serif;
-    font-size: 25px;
-    text-align: center;
-}
+
 form{
     width:550px;
 }
@@ -223,3 +218,15 @@ form .btn{
 }
 
 
+
+.icon-link{
+    color: #448F94;
+}
+
+.title-link{
+    color: #306468;
+}
+
+.title-link2{
+    color: #9ebcbc;
+}
