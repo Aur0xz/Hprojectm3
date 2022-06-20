@@ -1,5 +1,5 @@
 body{
-    background-color: #E9FFFE;
+    background-color: #FFEEEE;
     align-items: center;
     animation: appear 400ms forwards
 }
@@ -13,7 +13,7 @@ body{
 }
 a{
     font-family: 'Poppins', sans-serif;
-    color: rgb(0, 65, 59);
+    color: #ff7480;
     font-size: 17px;
 }
 .logo{
@@ -22,45 +22,56 @@ a{
 }
 h3{
     font-family: 'Poppins', sans-serif;
-    color: #07393d;
+    color: #6c3d77;
     font-size: 18px;
     text-align: left; 
 }
 h1{
     font-family: 'Poppins', sans-serif;
-    color: #306468;
+    color: #ff7480;
     font-size: 50px;
     text-align: center;
 }
 
 h2{
     font-family: 'Poppins', sans-serif;
-    color: rgb(52, 97, 109);
+    color: #ff7480;
     font-size: 25px;
     text-align: left;
 }
 p{
     font-family: 'Poppins', sans-serif;
-    color: #adb5bd;
+    color: #ffc3e4;
     font-size: 15px;
 }
  h4{
      font-family: 'Poppins', sans-serif;
-     color: rgb(33, 126, 133);
+     color: #c693ff;
      font-size: 40px;
      text-align: left;
  }
-.img1{
-    width: 250px;
-    height: 250px;
-    
-}
+
 
 
 form{
     width:550px;
 }
-
+.img1{
+    width: 350px;
+    height: 250px;
+}
+.img2{
+    width: 250px;
+    height: 250px;
+}
+.img3{
+    width: 150px;
+    height: 280px;
+}
+.img4{
+    width: 200px;
+    height: 300px;
+}
 form *{
     font-weight: bold;
 }
@@ -72,7 +83,7 @@ form label{
 
 form .form-control,form .form-control:focus{
     border-color:transparent;
-    border-bottom-color: #bcbec1;
+    border-bottom-color: #ffc3e4;
     box-shadow:none;
 }
 
@@ -82,12 +93,12 @@ form .btn{
 }
 
 .btn.btn-default{
-    background: #aadcfd;
+    background: #ffc3e4;
     color:#ffffff;
 }
 
 .btn.btn-primary{
-    background: #aadcfd;
+    background: #ffc3e4;
     color:white;
 }
 .sidebar {
@@ -95,7 +106,7 @@ form .btn{
     bottom: 0;
     padding-left:20px;
     font-size: 1.3rem;
-    background: #aadcfd;
+    background: #ffc3e4;
 }
 
 @media screen and (max-width:940px){
@@ -149,7 +160,7 @@ form .btn{
 .bar,.bar:after,.bar:before {
     width:30px;
     height:3px;
-    background: #9695a0;
+    background: #ffc3e4;
     transition: all 0.2s;
 }
 
@@ -194,7 +205,7 @@ form .btn{
     z-index: 1;
     height: 100%;
     width: 100%;
-    background: #bab9c2;
+    background: #ff7480;
     transition: width 0.5s;
     width: 0%;
 }
@@ -203,7 +214,7 @@ form .btn{
     margin-left:auto;
     margin-right:auto;
     margin-bottom: 20px;
-    color:#dddce5;
+    color:#ff7480;
     font-size:1.5rem;
     display: none;
     opacity: 0;
@@ -229,13 +240,13 @@ form .btn{
 
 
 .icon-link{
-    color: #448F94;
+    color: #ff7480;
 }
 
 .title-link{
-    color: #306468;
+    color: #ff7480;
 }
 
 .title-link2{
-    color: #9ebcbc;
+    color: #ffc3e4;
 }
